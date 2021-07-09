@@ -61,7 +61,7 @@ export const routeList = [
       {
         path: 'github',
         name: 'github',
-        link: 'https://github.com/BreadMage/front-template',
+        link: 'https://github.com/BreadMage/bread-mage-template',
         meta: { title: '外链 Github' },
       },
     ],
